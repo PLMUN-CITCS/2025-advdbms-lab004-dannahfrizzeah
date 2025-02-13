@@ -1,4 +1,4 @@
-Use `UniversityDB`;
+
 
 -- Step 1: Create the Students table with constraints
 CREATE TABLE `Students` (
