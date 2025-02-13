@@ -1,4 +1,3 @@
-
 Use `UniversityDB`;
 
 -- Step 1: Create the Students table with constraints
@@ -9,4 +8,5 @@ CREATE TABLE `Students` (
    `LastName` VARCHAR(50) NOT NULL,
    `EnrollmentDate` DATE
 );
+
 
